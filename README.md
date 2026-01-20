@@ -2,7 +2,7 @@
 
 A high-performance, responsive blog application built as part of the CA Monk frontend developer assessment. This project adheres strictly to the assessment requirements, leveraging **TanStack Query**, **TypeScript**, **Tailwind CSS**, and **shadcn/ui**, while delivering a premium "Glassmorphism" UI with advanced animations.
 
-![Project Preview](https://via.placeholder.com/800x400?text=CA+Monk+Blog+UI+Preview) <!-- Placeholder for a screenshot if you assume one, or remove -->
+![Project Preview](./public/assets/project_preview.png)
 
 ---
 
@@ -91,4 +91,4 @@ src/
 
 ---
 
-> Built with ❤️ by [Your Name] for CA Monk.
+> Built with ❤️ by [Harsh Sahu] for CA Monk.
